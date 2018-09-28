@@ -1,1 +1,1 @@
-This program can convert temperature F to C
+This program can convert temperature Farenheit to Celcius
